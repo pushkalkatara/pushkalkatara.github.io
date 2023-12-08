@@ -21,7 +21,7 @@ Hi there! I am passionate about building intelligent robots which can see, reaso
 
 Prior to joining CMU, I was working with Prof. K. Madhava Krishna at Robotics Research Center, IIIT-Hyderabad on self-supervised control generation for image-based visual navigation. I also worked as a Machine Learning Engineer at Clutterbot building perception and navigation system for home robots.
 
-In my undergrad, I contributed to JdeRobot through the Google Summer of Code working under guidance of Prof. Jose Maria Canas Plaza building finite-state automata library. I also lead the software team at SRMAUV building autonomous underwater vehicles.
+In my undergrad, I contributed to JdeRobot through the Google Summer of Code working under guidance of Prof. Jose Maria Canas Plaza. I also lead the software team at SRMAUV building autonomous underwater vehicles.
 
 Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel free to reach out to me at pkatara@andrew.cmu.edu.
 
