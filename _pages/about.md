@@ -47,7 +47,7 @@ Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel fr
 
 [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308)
 
-**Pushkal Katara**, Zhou Xian, Katerina Fragkiadaki
+**Pushkal Katara***, Zhou Xian, Katerina Fragkiadaki
 
 <!-- [**Website**](https://gen2sim.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Website**](https://gen2sim.github.io/) <strong> | [**Code**](https://gen2sim.github.io/) | [**Arxiv**](https://arxiv.org/abs/2310.18308)
@@ -60,10 +60,10 @@ Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel fr
 </div>
 
 - [**IRoS 2021**] [RTVS: Deep Model Predictive Control for Visual Servoing](https://ieeexplore.ieee.org/document/9636290) <br>
-M. Nomaan Qureshi, **Pushkal Katara**, Abhinav Gupta, Harit Pandya, Y V S Harish, K. Madhava Krishna
+M. Nomaan Qureshi*, **Pushkal Katara***, Abhinav Gupta*, Harit Pandya, Y V S Harish, K. Madhava Krishna
 
 - [**CoRL 2020**] [DeepMPCVS: Deep Model Predictive Control for Visual Servoing](https://arxiv.org/abs/2105.00788) <br>
-**Pushkal Katara**, Y V S Harish, Harit Pandya, Abhinav Gupta, Madhava Krishna K
+**Pushkal Katara***, Y V S Harish, Harit Pandya, Abhinav Gupta, Madhava Krishna K
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
