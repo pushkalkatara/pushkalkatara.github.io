@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I am passionate about building intelligent robots which can see, reason, and act like humans. I am currently a second year Master’s student at the Robotics Institute, Carnegie Mellon University working with Prof. Katerina Fragkiadaki on Computer Vision and Robotics.
 
-Prior to joining CMU, I was working with Prof. K. Madhava Krishna at Robotics Research Center, IIIT-Hyderabad on self-supervised control generation for image-based visual navigation. I also worked as a Machine Learning Engineer at Clutterbot building perception and navigation system for home robots.
+Hi there! I'm a 2nd-year Master's student at Carnegie Mellon University's Robotics Institute, working with Prof. Katerina Fragkiadaki. My research focuses on enabling embodied agents to learn from internet-scale data.
 
-In my undergrad, I contributed to JdeRobot through the Google Summer of Code working under guidance of Prof. Jose Maria Canas Plaza. I also lead the software team at SRMAUV building autonomous underwater vehicles.
+Prior to joining CMU, I was working with Prof. K. Madhava Krishna at Robotics Research Center, IIIT-Hyderabad on Visual Servoing. I also worked as a Computer Vision Engineer at Clutterbot building perception and navigation systems for home robots.
 
-Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel free to reach out to me at pkatara@andrew.cmu.edu.
+During my undergrad, I contributed to JdeRobot through Google Summer of Code working with Prof. Jose Maria Canas Plaza. Additionally, I led the software team at SRMAUV, focusing on building autonomous underwater vehicles.
+
+Apart from research, I find joy in hiking and playing keyboard/guitar. Connect with me at pkatara@andrew.cmu.edu. Let's chat!
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -41,6 +42,9 @@ Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel fr
 - May 2017: Joined student research team at SRMAUV building autonomous underwater vehicle. 
 
 # 📝 Publications 
+
+- [**In Submission**] ODIN: A Single Model for 2D and 3D Perception <br>
+Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sarch, Katerina Fragkiadaki
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/ap.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -60,7 +64,7 @@ Apart from research, I enjoy hiking, music, and playing keyboard/guitar. Feel fr
 </div>
 
 - [**IRoS 2021**] [RTVS: Deep Model Predictive Control for Visual Servoing](https://ieeexplore.ieee.org/document/9636290) <br>
-M. Nomaan Qureshi*, **Pushkal Katara***, Abhinav Gupta*, Harit Pandya, Y V S Harish, K. Madhava Krishna
+**Pushkal Katara**, M. Nomaan Qureshi, Abhinav Gupta, Harit Pandya, Y V S Harish, K. Madhava Krishna
 
 - [**CoRL 2020**] [DeepMPCVS: Deep Model Predictive Control for Visual Servoing](https://arxiv.org/abs/2105.00788) <br>
 **Pushkal Katara***, Y V S Harish, Harit Pandya, Abhinav Gupta, Madhava Krishna K
