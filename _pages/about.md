@@ -51,7 +51,7 @@ Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sar
 
 [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308)
 
-**Pushkal Katara***, Zhou Xian, Katerina Fragkiadaki
+**Pushkal Katara**, Zhou Xian, Katerina Fragkiadaki
 
 <!-- [**Website**](https://gen2sim.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 [**Website**](https://gen2sim.github.io/) <strong> | [**Code**](https://gen2sim.github.io/) | [**Arxiv**](https://arxiv.org/abs/2310.18308)
@@ -67,7 +67,7 @@ Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sar
 **Pushkal Katara**, M. Nomaan Qureshi, Abhinav Gupta, Harit Pandya, Y V S Harish, K. Madhava Krishna
 
 - [**CoRL 2020**] [DeepMPCVS: Deep Model Predictive Control for Visual Servoing](https://arxiv.org/abs/2105.00788) <br>
-**Pushkal Katara***, Y V S Harish, Harit Pandya, Abhinav Gupta, Madhava Krishna K
+**Pushkal Katara**, Y V S Harish, Harit Pandya, Abhinav Gupta, Madhava Krishna K
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
