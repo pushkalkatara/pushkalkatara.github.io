@@ -49,12 +49,12 @@ Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sar
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/ap.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://arxiv.org/abs/2310.18308)
+[Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://gen2sim.github.io/)
 
 **Pushkal Katara**, Zhou Xian, Katerina Fragkiadaki
 
 <!-- [**Website**](https://gen2sim.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-[**Website**](https://gen2sim.github.io/) <strong> | [**Code**](https://gen2sim.github.io/) | [**Arxiv**](https://arxiv.org/abs/2310.18308)
+[**Website**](https://gen2sim.github.io/) <strong> | [**Code**](https://github.com/pushkalkatara/Gen2Sim) | [**Arxiv**](https://arxiv.org/abs/2310.18308)
 
 - Generation to Simulation (Gen2Sim), a method for scaling up robotic skill learning in simulation.
 
