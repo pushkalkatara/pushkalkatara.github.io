@@ -20,9 +20,9 @@ redirect_from:
 
 Hi there! I'm a 2nd-year Master's student at Carnegie Mellon University's Robotics Institute, working with Prof. Katerina Fragkiadaki. My research focuses on enabling embodied agents to learn from internet-scale data.
 
-Prior to joining CMU, I was working with Prof. K. Madhava Krishna at Robotics Research Center, IIIT-Hyderabad on Visual Servoing. I also worked as a Computer Vision Engineer at Clutterbot building perception and navigation systems for home robots.
+Prior to joining CMU, I was working with Prof. K. Madhava Krishna at Robotics Research Center, IIIT-Hyderabad on Visual Servoing. I also worked as a Computer Vision Engineer at Clutterbot building perception systems for home robots.
 
-During my undergrad, I contributed to JdeRobot through Google Summer of Code working with Prof. Jose Maria Canas Plaza. Additionally, I led the software team at SRMAUV, focusing on building autonomous underwater vehicles.
+During my undergrad, I contributed to JdeRobot through Google Summer of Code working with Prof. Jose Maria Canas Plaza. Additionally, I led the software team at SRMAUV, building computer vision stack for autonomous underwater vehicles.
 
 Apart from research, I find joy in hiking and playing keyboard/guitar. Connect with me at pkatara@andrew.cmu.edu. Let's chat!
 
