@@ -30,7 +30,9 @@ Apart from research, I find joy in hiking and playing keyboard/guitar. Connect w
 
 # 🔥 News
 
-- November, 2023: Serving as a reviewer in CVPR 2024, ICRA 2024
+- February, 2024: Our work ODIN: A Single Model for 2D and 3D Perception accepted at CVPR 2024.
+- January, 2024: Our work Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models accepted at ICRA 2024.
+- November, 2023: Serving as a reviewer in CVPR 2024, ICRA 2024, ICLR 2024.
 - November, 2023: Presented Gen2Sim in Towards Generalist Robots Workshop at CoRL 2023.
 - November, 2023: Volunteered at CoRL 2023.
 - August, 2022: Joined Carnegie Mellon University for MS in Robotics.
@@ -43,10 +45,20 @@ Apart from research, I find joy in hiking and playing keyboard/guitar. Connect w
 
 # 📝 Publications 
 
-- [**In Submission**] ODIN: A Single Model for 2D and 3D Perception <br>
-Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley, Gabriel Sarch, Katerina Fragkiadaki
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/odin-teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">In Submission</div><img src='images/ap.gif' alt="sym" width="100%"></div></div>
+[ODIN: A Single Model for 2D and 3D Perception](https://odin-seg.github.io/)
+
+Ayush Jain, **Pushkal Katara**, Nikolaos Gkanatsios, Adam W. Harley,
+Gabriel Sarch, Kriti Aggarwal, Vishrav Chaudhary, Katerina Fragkiadaki
+
+[**Website**](https://odin-seg.github.io/) <strong> | [**Code**](https://github.com/ayushjain1144/odin) | [**Arxiv**](https://arxiv.org/abs/2401.02416)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ap.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Gen2Sim: Scaling up Robot Learning in Simulation with Generative Models](https://gen2sim.github.io/)
