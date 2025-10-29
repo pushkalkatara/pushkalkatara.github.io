@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Pushkal Katara"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Masters in Robotics, Carnegie Mellon University"
-  location         : "Pittsburgh, United States"
+  bio              : "Research Engineer @ General Robotics"
+  location         : "Seattle, WA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=H13f1YwAAAAJ"
-  email            : "pkatara@andrew.cmu.edu"
+  email            : "katarapushkal@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
