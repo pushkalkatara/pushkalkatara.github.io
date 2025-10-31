@@ -27,7 +27,6 @@ Prior to General Robotics, I did my Master's in Robotics at Robotics Institute, 
 # 🔥 News
 
 - Sept, 2025: Released our work [DreamControl](https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills) on leveraging large-scale human motion datasets for humanoid whole-body skill learning.
-- June, 2025: Released [TrossenAI](https://www.generalrobotics.company/post/trossen-robots-on-grid) bimanual mobile manipulators with pick-and-place manipulation skill into GRID. 
 - March, 2025: Served as a TA in GRID Workshop at Nvidia GTC’25 in San Jose.
 - Dec, 2024: Co-developed [GRID-Isaac](https://x.com/genrobotics_ai/status/1892250420711481524) on OpenGRID platform serving 3000+ active users, multiple enterprise clients.
 - July, 2024: Joined General Robotics to work on robot learning, manipulation and humanoids.
