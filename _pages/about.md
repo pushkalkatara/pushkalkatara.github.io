@@ -45,7 +45,7 @@ Prior to General Robotics, I did my Master's in Robotics at Robotics Institute, 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/dreamcontrol.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/dreamcontrol.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DreamControl: Human-Inspired Whole-Body Humanoid Control for
