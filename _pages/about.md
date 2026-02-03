@@ -18,14 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi there! I’m a founding research engineer at General Robotics, focusing on robot learning methods that enable generalizable manipulation across diverse robot form-factors including arms, mobile manipulators, and humanoids.
+Hi there! I’m a research engineer at General Robotics, focusing on robot learning methods that enable generalizable manipulation across diverse robot form-factors including arms, mobile manipulators, and humanoids.
 
 Prior to General Robotics, I did my Master's in Robotics at Robotics Institute, Carnegie Mellon University. I was advised by Prof. Katerina Fragkiadaki and my research focused on enabling embodied agents to learn from internet-scale data.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
-
+- Feb, 2026: Our work [DreamControl](https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills): Humanoid Locomanipulation via Guided Diffusion accepted at ICRA 2026.
 - Sept, 2025: Released our work [DreamControl](https://www.generalrobotics.company/post/dreamcontrol-building-humanoid-ai-skills) on leveraging large-scale human motion datasets for humanoid whole-body skill learning.
 - March, 2025: Served as a TA in GRID Workshop at Nvidia GTC’25 in San Jose.
 - Dec, 2024: Co-developed [GRID-Isaac](https://x.com/genrobotics_ai/status/1892250420711481524) on OpenGRID platform serving 3000+ active users, multiple enterprise clients.
